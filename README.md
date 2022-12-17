@@ -1,13 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋;welcome+to+my+Github+profile)](https://git.io/typing-svg)
-<p>
+
+
 🎆A quick Introduction
 - 👋 Hi, I’m @Augustine-ebuka
 - 👀 I’m interested in freelance Software Projects
 - 🌱 I’m currently learning Node.js and express.js
 - 💞️ I’m looking to collaborate on any project related to Javascripts
 - 📫 How to reach me please message me on my social media
-  </p>
 ---
 💻 Languages, Framework, Libraries
 <p float="left">
