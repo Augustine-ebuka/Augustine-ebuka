@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋;I'm+a+software + enginerr)](https://git.io/typing-svg)
 🎆A quick Introduction
 - 👋 Hi, I’m @Augustine-ebuka
 - 👀 I’m interested in freelance Software Projects
